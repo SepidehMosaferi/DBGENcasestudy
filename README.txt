@@ -10,12 +10,12 @@ Author: Sepideh Mosaferi; Aug 1, 2016
 
 
 Contents
-1. Sub-folder "dbgen"
+1. Folder "dbgen"
 2. output.db file
 3. 4 csv files
 
 ======================================
-1. Sub-folder "dbgen"
+1. Folder "dbgen"
 ======================================
 This sub-folder is the main dbgen program. One can run the main data generator 
 code from the folder called "zipfgen_dbgen.c" to see how the program works.
